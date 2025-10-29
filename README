@@ -5,3 +5,5 @@ in Android developer terminal
 
 use
 pico8_64 -x exportcartridge.p8 <filename no ext>
+
+using the raspi build there are still errorsin the output code that make the webplayer break but it outputs so it can viewed on a local server
