@@ -1,0 +1,7 @@
+beta for headless export of web player with cartridge (almost works) :{
+
+
+in Android developer terminal
+
+use
+pico8_64 -x exportcartridge.p8 <filename no ext>
